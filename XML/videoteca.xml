@@ -1,0 +1,1513 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="videotADJà.xsl"?>
+<!DOCTYPE colleccio SYSTEM "colleccio.dtd" [
+  <!ENTITY euro "€">
+  <!ENTITY dollar "$">
+  <!ENTITY pound "£">
+]>
+<colleccio>
+    <!-- 1-->
+    <pelicula codi="11111111">
+        <titol>El Padrino</titol>
+        <durada temps="min">175</durada>
+        <any>1972</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Drama</genere>
+        <class>18</class>
+        <sinopsi>El Padrí narra la història de la família Corleone, una poderosa dinastia mafiosa de Nova York, i les tensions internes que en resulta.</sinopsi>
+        <director-a>Francis Ford Coppola</director-a>
+        <repartiment>
+          <actor>
+            <nom>Marlon</nom>
+            <cognom>Brando</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Diane</nom>
+            <cognom>Keaton</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>15/06/2005</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 2.-->
+    <pelicula codi="11111112">
+        <titol>Blade Runner</titol>
+        <durada temps="min">117</durada>
+        <any>1982</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>12</class>
+        <sinopsi>En un futur distòpic, un ex-policia ha de caçar uns androides rebels que intenten viure com a humans.</sinopsi>
+        <director-a>Ridley Scott</director-a>
+        <repartiment>
+          <actor>
+            <nom>Harrison</nom>
+            <cognom>Ford</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Rutger</nom>
+            <cognom>Hauer</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>22/03/2010</datacompra>
+        <preu moneda="&dollar;">25</preu>
+    </pelicula>
+
+    <!-- 3.-->
+    <pelicula codi="11111113">
+        <titol>Parásitos</titol>
+        <durada temps="min">132</durada>
+        <any>2019</any>
+        <nacionalitat>Corea del Sud</nacionalitat>
+        <idioma>Coreà</idioma>
+        <genere>Thriller</genere>
+        <class>16</class>
+        <sinopsi>Una família pobra s'infiltra en la vida d'una família rica, amb conseqüències inesperades.</sinopsi>
+        <director-a>Bong Joon-ho</director-a>
+        <repartiment>
+          <actor>
+            <nom>Song</nom>
+            <cognom>Kang-ho</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Choi</nom>
+            <cognom>Woo-shik</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>10/02/2020</datacompra>
+        <preu moneda="&euro;">23</preu>
+    </pelicula>
+
+    <!-- 4.-->
+    <pelicula codi="11111114">
+        <titol>La La Land</titol>
+        <durada temps="min">128</durada>
+        <any>2016</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Musical</genere>
+        <class>12</class>
+        <sinopsi>Una història d'amor entre una aspirant actriu i un músic de jazz a Los Angeles.</sinopsi>
+        <director-a>Damien Chazelle</director-a>
+        <repartiment>
+          <actor>
+            <nom>Ryan</nom>
+            <cognom>Gosling</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Emma</nom>
+            <cognom>Stone</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>05/07/2017</datacompra>
+        <preu moneda="&euro;">18</preu>
+    </pelicula>
+
+    <!-- 5-->
+    <pelicula codi="11111115">
+        <titol>Inception</titol>
+        <durada temps="min">148</durada>
+        <any>2010</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Suspens</genere>
+        <class>13</class>
+        <sinopsi>Un lladre especialitza't en robar secrets a través dels somnis s'endinsa en una missió per implantar una idea.</sinopsi>
+        <director-a>Christopher Nolan</director-a>
+        <repartiment>
+          <actor>
+            <nom>Leonardo</nom>
+            <cognom>DiCaprio</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Joseph</nom>
+            <cognom>Gordon-Levitt</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>12/11/2011</datacompra>
+        <preu moneda="&dollar;">22</preu>
+    </pelicula>
+
+    <!-- 6-->
+    <pelicula codi="11111116">
+        <titol>Titanic</titol>
+        <durada temps="min">195</durada>
+        <any>1997</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Romàntic</genere>
+        <class>13</class>
+        <sinopsi>La tràgica història d'amor a bord del famós vaixell Titanic.</sinopsi>
+        <director-a>James Cameron</director-a>
+        <repartiment>
+          <actor>
+            <nom>Leonardo</nom>
+            <cognom>DiCaprio</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Kate</nom>
+            <cognom>Winslet</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>28/05/2003</datacompra>
+        <preu moneda="&euro;">15</preu>
+    </pelicula>
+
+    <!-- 7. The Shawshank Redemption -->
+    <pelicula codi="11111117">
+        <titol>The Shawshank Redemption</titol>
+        <durada temps="min">142</durada>
+        <any>1994</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Drama</genere>
+        <class>16</class>
+        <sinopsi>La història d'un home condemnat a cadena perpetua que troba l'esperança dins de la presó.</sinopsi>
+        <director-a>Frank Darabont</director-a>
+        <repartiment>
+          <actor>
+            <nom>Tim</nom>
+            <cognom>Robbins</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Morgan</nom>
+            <cognom>Freeman</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>03/03/2008</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 8. The Dark Knight -->
+    <pelicula codi="11111118">
+        <titol>The Dark Knight</titol>
+        <durada temps="min">152</durada>
+        <any>2008</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Acció</genere>
+        <class>13</class>
+        <sinopsi>Batman s'enfronta al caòtic Joker en una batalla per salvar Gotham.</sinopsi>
+        <director-a>Christopher Nolan</director-a>
+        <repartiment>
+          <actor>
+            <nom>Christian</nom>
+            <cognom>Bale</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Heath</nom>
+            <cognom>Ledger</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>18/09/2009</datacompra>
+        <preu moneda="&dollar;">24</preu>
+    </pelicula>
+
+    <!-- 9. Forrest Gump -->
+    <pelicula codi="11111119">
+        <titol>Forrest Gump</titol>
+        <durada temps="min">142</durada>
+        <any>1994</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Comèdia</genere>
+        <class>12</class>
+        <sinopsi>La vida d'un home senzill que, sense voler-ho, esdevé testimoni d'esdeveniments històrics.</sinopsi>
+        <director-a>Robert Zemeckis</director-a>
+        <repartiment>
+          <actor>
+            <nom>Tom</nom>
+            <cognom>Hanks</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Robin</nom>
+            <cognom>Wright</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>11/11/2007</datacompra>
+        <preu moneda="&euro;">17</preu>
+    </pelicula>
+
+    <!-- 10. The Matrix -->
+    <pelicula codi="11111120">
+        <titol>The Matrix</titol>
+        <durada temps="min">136</durada>
+        <any>1999</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>16</class>
+        <sinopsi>Un programador descobreix la veritat oculta darrere de la seva realitat.</sinopsi>
+        <director-a>Wachowski Brothers</director-a>
+        <repartiment>
+          <actor>
+            <nom>Keanu</nom>
+            <cognom>Reeves</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Laurence</nom>
+            <cognom>Fishburne</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>30/08/2004</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 11-->
+    <pelicula codi="11111121">
+        <titol>Gladiator</titol>
+        <durada temps="min">155</durada>
+        <any>2000</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Històrica</genere>
+        <class>16</class>
+        <sinopsi>Un general romà convertit en esclau busca venjança contra l'imperador corrupt.</sinopsi>
+        <director-a>Ridley Scott</director-a>
+        <repartiment>
+          <actor>
+            <nom>Russell</nom>
+            <cognom>Crowe</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Joaquin</nom>
+            <cognom>Phoenix</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>14/04/2002</datacompra>
+        <preu moneda="&euro;">18</preu>
+    </pelicula>
+
+    <!-- 12. -->
+    <pelicula codi="11111122">
+        <titol>Schindler's List</titol>
+        <durada temps="min">195</durada>
+        <any>1993</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Biogràfica</genere>
+        <class>16</class>
+        <sinopsi>La història veritable d'un empresari que va salvar centenars de jueus durant l'Holocaust.</sinopsi>
+        <director-a>Steven Spielberg</director-a>
+        <repartiment>
+          <actor>
+            <nom>Liam</nom>
+            <cognom>Neeson</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Ben</nom>
+            <cognom>Kingsley</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>07/07/2003</datacompra>
+        <preu moneda="&dollar;">22</preu>
+    </pelicula>
+
+    <!-- 13.-->
+    <pelicula codi="11111123">
+        <titol>The Godfather Part II</titol>
+        <durada temps="min">202</durada>
+        <any>1974</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Drama</genere>
+        <class>18</class>
+        <sinopsi>Continua la saga de la família Corleone, aprofundint en el passat de Vito i el present de Michael.</sinopsi>
+        <director-a>Francis Ford Coppola</director-a>
+        <repartiment>
+          <actor>
+            <nom>Al</nom>
+            <cognom>Pacino</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Robert</nom>
+            <cognom>Duvall</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>21/10/2004</datacompra>
+        <preu moneda="&dollar;">20</preu>
+    </pelicula>
+
+    <!-- 14.-->
+    <pelicula codi="11111124">
+        <titol>Pulp Fiction</titol>
+        <durada temps="min">154</durada>
+        <any>1994</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Crim</genere>
+        <class>18</class>
+        <sinopsi>Històries entrellaçades de delinqüents a Los Angeles amb un estil narratiu únic.</sinopsi>
+        <director-a>Quentin Tarantino</director-a>
+        <repartiment>
+          <actor>
+            <nom>John</nom>
+            <cognom>Travolta</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Samuel</nom>
+            <cognom>L. Jackson</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>02/02/2005</datacompra>
+        <preu moneda="&dollar;">23</preu>
+    </pelicula>
+
+    <!-- 15.-->
+    <pelicula codi="11111125">
+        <titol>The Silence of the Lambs</titol>
+        <durada temps="min">118</durada>
+        <any>1991</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Terror</genere>
+        <class>16</class>
+        <sinopsi>Una jove agent del FBI recorre la ment d'un assassí per capturar un altre criminal en sèrie.</sinopsi>
+        <director-a>Jonathan Demme</director-a>
+        <repartiment>
+          <actor>
+            <nom>Jodie</nom>
+            <cognom>Foster</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Anthony</nom>
+            <cognom>Hopkins</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>17/08/2006</datacompra>
+        <preu moneda="&dollar;">19</preu>
+    </pelicula>
+
+    <!-- 16. Saving Private Ryan -->
+    <pelicula codi="11111126">
+        <titol>Saving Private Ryan</titol>
+        <durada temps="min">169</durada>
+        <any>1998</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Bèl·lica</genere>
+        <class>16</class>
+        <sinopsi>Durant la Segona Guerra Mundial, un grup de soldats té la missió de rescatar un home darrere de les línies enemigues.</sinopsi>
+        <director-a>Steven Spielberg</director-a>
+        <repartiment>
+          <actor>
+            <nom>Tom</nom>
+            <cognom>Hanks</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Matt</nom>
+            <cognom>Damon</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>09/05/2003</datacompra>
+        <preu moneda="&dollar;">21</preu>
+    </pelicula>
+
+    <!-- 17-->
+    <pelicula codi="11111127">
+        <titol>American Beauty</titol>
+        <durada temps="min">122</durada>
+        <any>1999</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Drama</genere>
+        <class>16</class>
+        <sinopsi>La crisi d'una família suburbana porta a una recerca de la bellesa en la rutina diària.</sinopsi>
+        <director-a>Sam Mendes</director-a>
+        <repartiment>
+          <actor>
+            <nom>Kevin</nom>
+            <cognom>Spacey</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Annette</nom>
+            <cognom>Bening</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>23/03/2007</datacompra>
+        <preu moneda="&euro;">17</preu>
+    </pelicula>
+
+    <!-- 18-->
+    <pelicula codi="11111128">
+        <titol>Interstellar</titol>
+        <durada temps="min">169</durada>
+        <any>2014</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>13</class>
+        <sinopsi>En un futur on la Terra es torna inhòspita, un grup d'exploradors emprèn un viatge interestel·lar per salvar la humanitat.</sinopsi>
+        <director-a>Christopher Nolan</director-a>
+        <repartiment>
+          <actor>
+            <nom>Matthew</nom>
+            <cognom>McConaughey</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Anne</nom>
+            <cognom>Hathaway</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>06/12/2015</datacompra>
+        <preu moneda="&pound;">24</preu>
+    </pelicula>
+
+    <!-- 19-->
+    <pelicula codi="11111129">
+        <titol>The Prestige</titol>
+        <durada temps="min">130</durada>
+        <any>2006</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Fantasia</genere>
+        <class>13</class>
+        <sinopsi>Dos il·lusionistes rivals competeixen per crear l'acte màgic suprem.</sinopsi>
+        <director-a>Christopher Nolan</director-a>
+        <repartiment>
+          <actor>
+            <nom>Hugh</nom>
+            <cognom>Jackman</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Christian</nom>
+            <cognom>Bale</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>11/01/2008</datacompra>
+        <preu moneda="&euro;">19</preu>
+    </pelicula>
+
+    <!-- 20.-->
+    <pelicula codi="11111130">
+        <titol>Memento</titol>
+        <durada temps="min">113</durada>
+        <any>2000</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Misteri</genere>
+        <class>16</class>
+        <sinopsi>Un home amb pèrdua de memòria curta intenta resoldre el misteri de l'assassinat de la seva dona.</sinopsi>
+        <director-a>Christopher Nolan</director-a>
+        <repartiment>
+          <actor>
+            <nom>Guy</nom>
+            <cognom>Pearce</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>15/04/2001</datacompra>
+        <preu moneda="&euro;">18</preu>
+    </pelicula>
+
+    <!-- 21-->
+    <pelicula codi="11111131">
+        <titol>City of God</titol>
+        <durada temps="min">130</durada>
+        <any>2002</any>
+        <nacionalitat>Brasil</nacionalitat>
+        <idioma>Portuguès</idioma>
+        <genere>Crim</genere>
+        <class>16</class>
+        <sinopsi>En una favela de Rio de Janeiro, la violència i el crim esdevenen l'única manera de sobreviure.</sinopsi>
+        <director-a>Fernando Meirelles</director-a>
+        <repartiment>
+          <actor>
+            <nom>Alexandre</nom>
+            <cognom>Santarém</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>20/07/2005</datacompra>
+        <preu moneda="&euro;">16</preu>
+    </pelicula>
+
+    <!-- 22.-->
+    <pelicula codi="11111132">
+        <titol>Spirited Away</titol>
+        <durada temps="min">125</durada>
+        <any>2001</any>
+        <nacionalitat>Japó</nacionalitat>
+        <idioma>Japonès</idioma>
+        <genere>Aventura</genere>
+        <class>7</class>
+        <sinopsi>Una nena es troba atrapada en un món màgic ple de esperits i misteris.</sinopsi>
+        <director-a>Hayao Miyazaki</director-a>
+        <repartiment>
+          <actor>
+            <nom>Rumi</nom>
+            <cognom>Hiiragi</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>28/02/2004</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 23.-->
+    <pelicula codi="11111133">
+        <titol>The Lion King</titol>
+        <durada temps="min">88</durada>
+        <any>1994</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Musical</genere>
+        <class>7</class>
+        <sinopsi>La vida i la redempció d'un jove lleó destinat a ser rei de la sabana africana.</sinopsi>
+        <director-a>Roger Allers</director-a>
+        <repartiment>
+          <actor>
+            <nom>Matthew</nom>
+            <cognom>Broderick</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>10/10/2005</datacompra>
+        <preu moneda="&euro;">15</preu>
+    </pelicula>
+
+    <!-- 24.-->
+    <pelicula codi="11111134">
+        <titol>Back to the Future</titol>
+        <durada temps="min">116</durada>
+        <any>1985</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Aventura</genere>
+        <class>12</class>
+        <sinopsi>Un adolescent viatja en el temps amb una màquina construïda per un excèntric científic.</sinopsi>
+        <director-a>Robert Zemeckis</director-a>
+        <repartiment>
+          <actor>
+            <nom>Michael</nom>
+            <cognom>J. Fox</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Christopher</nom>
+            <cognom>Lloyd</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>25/12/2006</datacompra>
+        <preu moneda="&euro;">18</preu>
+    </pelicula>
+
+    <!-- 25.-->
+    <pelicula codi="11111135">
+        <titol>The Departed</titol>
+        <durada temps="min">151</durada>
+        <any>2006</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Thriller</genere>
+        <class>16</class>
+        <sinopsi>En un joc de duplicitat, un informant de la policia i un infiltrat en la mafia s'enfronten en Boston.</sinopsi>
+        <director-a>Martin Scorsese</director-a>
+        <repartiment>
+          <actor>
+            <nom>Leonardo</nom>
+            <cognom>DiCaprio</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Matt</nom>
+            <cognom>Damon</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>30/07/2007</datacompra>
+        <preu moneda="&dollar;">21</preu>
+    </pelicula>
+
+    <!-- 26.-->
+    <pelicula codi="11111136">
+        <titol>Alien</titol>
+        <durada temps="min">117</durada>
+        <any>1979</any>
+        <nacionalitat>Regne Unit/EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Terror</genere>
+        <class>16</class>
+        <sinopsi>La tripulació d'una nau espacial s'enfronta a una amenaça extraterrestre mortal.</sinopsi>
+        <director-a>Ridley Scott</director-a>
+        <repartiment>
+          <actor>
+            <nom>Sigourney</nom>
+            <cognom>Weaver</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>02/03/2008</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 27-->
+    <pelicula codi="11111137">
+        <titol>Apocalypse Now</titol>
+        <durada temps="min">147</durada>
+        <any>1979</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Bèl·lica</genere>
+        <class>18</class>
+        <sinopsi>Durant la guerra de Vietnam, un capità s'endinsa en el cor de la foscor humana.</sinopsi>
+        <director-a>Francis Ford Coppola</director-a>
+        <repartiment>
+          <actor>
+            <nom>Marlon</nom>
+            <cognom>Brando</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Martin</nom>
+            <cognom>Sheen</cognom>
+            <tipus>Secundari</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>19/05/2009</datacompra>
+        <preu moneda="&dollar;">23</preu>
+    </pelicula>
+
+    <!-- 28.-->
+    <pelicula codi="11111138">
+        <titol>The Shining</titol>
+        <durada temps="min">146</durada>
+        <any>1980</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Terror</genere>
+        <class>16</class>
+        <sinopsi>Una família es muda a un hotel aïllat on fets sobrenaturals amenaçen la seva sanitat.</sinopsi>
+        <director-a>Stanley Kubrick</director-a>
+        <repartiment>
+          <actor>
+            <nom>Jack</nom>
+            <cognom>Nicholson</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>14/10/2008</datacompra>
+        <preu moneda="&euro;">22</preu>
+    </pelicula>
+
+    <!-- 29-->
+    <pelicula codi="11111139">
+        <titol>A Clockwork Orange</titol>
+        <durada temps="min">136</durada>
+        <any>1971</any>
+        <nacionalitat>Regne Unit</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Suspens</genere>
+        <class>18</class>
+        <sinopsi>En un futur proper, un jove violents és sotmès a un experiment per canviar la seva personalitat.</sinopsi>
+        <director-a>Stanley Kubrick</director-a>
+        <repartiment>
+          <actor>
+            <nom>Malcolm</nom>
+            <cognom>McDowell</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>08/06/2007</datacompra>
+        <preu moneda="&pound;">18</preu>
+    </pelicula>
+
+    <!-- 30-->
+    <pelicula codi="11111140">
+        <titol>Braveheart</titol>
+        <durada temps="min">178</durada>
+        <any>1995</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Històrica</genere>
+        <class>16</class>
+        <sinopsi>La història d'un heroi escocès que lidera la seva gent contra l'opressió anglesa.</sinopsi>
+        <director-a>Mel Gibson</director-a>
+        <repartiment>
+          <actor>
+            <nom>Mel</nom>
+            <cognom>Gibson</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>27/11/2006</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 31-->
+    <pelicula codi="11111141">
+        <titol>The Social Network</titol>
+        <durada temps="min">120</durada>
+        <any>2010</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Biogràfica</genere>
+        <class>13</class>
+        <sinopsi>La creació de Facebook i els conflictes que van sorgir al seu voltant.</sinopsi>
+        <director-a>David Fincher</director-a>
+        <repartiment>
+          <actor>
+            <nom>Jesse</nom>
+            <cognom>Eisenberg</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>05/05/2011</datacompra>
+        <preu moneda="&dollar;">19</preu>
+    </pelicula>
+
+    <!-- 32.-->
+    <pelicula codi="11111142">
+        <titol>The Avengers</titol>
+        <durada temps="min">143</durada>
+        <any>2012</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Acció</genere>
+        <class>12</class>
+        <sinopsi>Els herois més potents de la Terra s'uneixen per salvar el món d'una amenaça extraterrestre.</sinopsi>
+        <director-a>Joss Whedon</director-a>
+        <repartiment>
+          <actor>
+            <nom>Robert</nom>
+            <cognom>Downey Jr.</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Chris</nom>
+            <cognom>Evans</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>16/07/2013</datacompra>
+        <preu moneda="&euro;">22</preu>
+    </pelicula>
+
+    <!-- 33.-->
+    <pelicula codi="11111143">
+        <titol>Jurassic Park</titol>
+        <durada temps="min">127</durada>
+        <any>1993</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>12</class>
+        <sinopsi>Un parc temàtic amb dinosaures clonats esdevé una lluita per la supervivència.</sinopsi>
+        <director-a>Steven Spielberg</director-a>
+        <repartiment>
+          <actor>
+            <nom>Sam</nom>
+            <cognom>Neville</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>29/09/2004</datacompra>
+        <preu moneda="&euro;">17</preu>
+    </pelicula>
+
+    <!-- 34.-->
+    <pelicula codi="11111144">
+        <titol>Avatar</titol>
+        <durada temps="min">162</durada>
+        <any>2009</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>13</class>
+        <sinopsi>Un ex-marine s'integra en el món alienígena de Pandora, on es desencadena un conflicte per recursos.</sinopsi>
+        <director-a>James Cameron</director-a>
+        <repartiment>
+          <actor>
+            <nom>Sam</nom>
+            <cognom>Worthington</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+          <actor>
+            <nom>Zoe</nom>
+            <cognom>Saldana</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>04/12/2010</datacompra>
+        <preu moneda="&dollar;">25</preu>
+    </pelicula>
+
+    <!-- 35.-->
+    <pelicula codi="11111145">
+        <titol>The Lord of the Rings: The Fellowship of the Ring</titol>
+        <durada temps="min">178</durada>
+        <any>2001</any>
+        <nacionalitat>Nova Zelanda/EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Fantasia</genere>
+        <class>12</class>
+        <sinopsi>Un jove hobbit i la seva comunitat emprenen una aventura per destruir un anell poderós.</sinopsi>
+        <director-a>Peter Jackson</director-a>
+        <repartiment>
+          <actor>
+            <nom>Elijah</nom>
+            <cognom>Wood</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>18/03/2002</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 36.-->
+    <pelicula codi="11111146">
+        <titol>The Lord of the Rings: The Two Towers</titol>
+        <durada temps="min">179</durada>
+        <any>2002</any>
+        <nacionalitat>Nova Zelanda/EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Fantasia</genere>
+        <class>12</class>
+        <sinopsi>La comunitat es divideix mentre la lluita contra les forces del mal s'intensifica.</sinopsi>
+        <director-a>Peter Jackson</director-a>
+        <repartiment>
+          <actor>
+            <nom>Viggo</nom>
+            <cognom>Mortensen</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>09/05/2003</datacompra>
+        <preu moneda="&euro;">19</preu>
+    </pelicula>
+
+    <!-- 37.-->
+    <pelicula codi="11111147">
+        <titol>The Lord of the Rings: The Return of the King</titol>
+        <durada temps="min">201</durada>
+        <any>2003</any>
+        <nacionalitat>Nova Zelanda/EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Fantasia</genere>
+        <class>12</class>
+        <sinopsi>La batalla final per la llibertat d'una Terra mitològica arriba al seu clímax.</sinopsi>
+        <director-a>Peter Jackson</director-a>
+        <repartiment>
+          <actor>
+            <nom>Elijah</nom>
+            <cognom>Wood</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>22/08/2003</datacompra>
+        <preu moneda="&euro;">21</preu>
+    </pelicula>
+
+    <!-- 38. -->
+    <pelicula codi="11111148">
+        <titol>Star Wars: Episode IV - A New Hope</titol>
+        <durada temps="min">121</durada>
+        <any>1977</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>12</class>
+        <sinopsi>Un jove esdevé l'heroi inesperat en una batalla contra un imperi opressiu.</sinopsi>
+        <director-a>George Lucas</director-a>
+        <repartiment>
+          <actor>
+            <nom>Mark</nom>
+            <cognom>Hamill</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>30/01/2005</datacompra>
+        <preu moneda="&euro;">18</preu>
+    </pelicula>
+
+    <!-- 39.-->
+    <pelicula codi="11111149">
+        <titol>Star Wars: Episode V - The Empire Strikes Back</titol>
+        <durada temps="min">124</durada>
+        <any>1980</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>12</class>
+        <sinopsi>Els herois de la Rebel·lió afronten una dura derrota mentre l'Imperi enforteix el seu control.</sinopsi>
+        <director-a>Irvin Kershner</director-a>
+        <repartiment>
+          <actor>
+            <nom>Mark</nom>
+            <cognom>Hamill</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>17/06/2006</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 40. -->
+    <pelicula codi="11111150">
+        <titol>Star Wars: Episode VI - Return of the Jedi</titol>
+        <durada temps="min">131</durada>
+        <any>1983</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>12</class>
+        <sinopsi>La Rebel·lió emprèn l'última batalla per derrocar l'Imperi i restaurar la llibertat.</sinopsi>
+        <director-a>Richard Marquand</director-a>
+        <repartiment>
+          <actor>
+            <nom>Mark</nom>
+            <cognom>Hamill</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>VHS</suport>
+        <datacompra>05/03/2007</datacompra>
+        <preu moneda="&euro;">19</preu>
+    </pelicula>
+
+    <!-- 41-->
+    <pelicula codi="11111151">
+        <titol>The Incredibles</titol>
+        <durada temps="min">115</durada>
+        <any>2004</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Acció</genere>
+        <class>7</class>
+        <sinopsi>Una família de superherois lluita per equilibrar la seva vida quotidiana amb la seva missió de salvar el món.</sinopsi>
+        <director-a>Brad Bird</director-a>
+        <repartiment>
+          <actor>
+            <nom>Craig</nom>
+            <cognom>T. Nelson</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>12/12/2005</datacompra>
+        <preu moneda="&euro;">18</preu>
+    </pelicula>
+
+    <!-- 42. -->
+    <pelicula codi="11111152">
+        <titol>Toy Story</titol>
+        <durada temps="min">81</durada>
+        <any>1995</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Animació</genere>
+        <class>7</class>
+        <sinopsi>Els joguets cobren vida quan els humans no hi són, protagonitzant aventures inesperades.</sinopsi>
+        <director-a>John Lasseter</director-a>
+        <repartiment>
+          <actor>
+            <nom>Tom</nom>
+            <cognom>Hanks</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>05/05/2006</datacompra>
+        <preu moneda="&euro;">16</preu>
+    </pelicula>
+
+    <!-- 43. -->
+    <pelicula codi="11111153">
+        <titol>Finding Nemo</titol>
+        <durada temps="min">100</durada>
+        <any>2003</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Animació</genere>
+        <class>7</class>
+        <sinopsi>Un peix pagès emprèn un viatge per trobar el seu fill perdut en un immens oceà.</sinopsi>
+        <director-a>Andrew Stanton</director-a>
+        <repartiment>
+          <actor>
+            <nom>Albert</nom>
+            <cognom>Brooks</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>22/08/2004</datacompra>
+        <preu moneda="&euro;">17</preu>
+    </pelicula>
+
+    <!-- 44.-->
+    <pelicula codi="11111154">
+        <titol>Up</titol>
+        <durada temps="min">96</durada>
+        <any>2009</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Animació</genere>
+        <class>7</class>
+        <sinopsi>Un vell viatja a Sud-amèrica en una casa flotant amb globus, complint un somni d'infància.</sinopsi>
+        <director-a>Pete Docter</director-a>
+        <repartiment>
+          <actor>
+            <nom>Ed</nom>
+            <cognom>Asner</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>14/11/2009</datacompra>
+        <preu moneda="&euro;">16</preu>
+    </pelicula>
+
+    <!-- 45. -->
+    <pelicula codi="11111155">
+        <titol>WALL-E</titol>
+        <durada temps="min">98</durada>
+        <any>2008</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Animació</genere>
+        <class>7</class>
+        <sinopsi>Un robot recollidor de residus descobreix l'amor i la importància de cuidar la Terra.</sinopsi>
+        <director-a>Andrew Stanton</director-a>
+        <repartiment>
+          <actor>
+            <nom>Ben</nom>
+            <cognom>Burtt</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>02/03/2009</datacompra>
+        <preu moneda="&euro;">18</preu>
+    </pelicula>
+
+    <!-- 46.-->
+    <pelicula codi="11111156">
+        <titol>Ratatouille</titol>
+        <durada temps="min">111</durada>
+        <any>2007</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Animació</genere>
+        <class>7</class>
+        <sinopsi>Un ratolí amb un talent culinari excepcional forma una inesperada aliança amb un jove xef.</sinopsi>
+        <director-a>Brad Bird</director-a>
+        <repartiment>
+          <actor>
+            <nom>Patton</nom>
+            <cognom>Oswalt</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>19/04/2008</datacompra>
+        <preu moneda="&euro;">17</preu>
+    </pelicula>
+
+    <!-- 47.-->
+    <pelicula codi="11111157">
+        <titol>Coco</titol>
+        <durada temps="min">105</durada>
+        <any>2017</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Animació</genere>
+        <class>7</class>
+        <sinopsi>Un jove aspirant a músic viatja al món dels morts per descobrir els secrets familiars.</sinopsi>
+        <director-a>Lee Unkrich</director-a>
+        <repartiment>
+          <actor>
+            <nom>Gael</nom>
+            <cognom>García Bernal</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>08/09/2017</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 48.-->
+    <pelicula codi="11111158">
+        <titol>Inside Out</titol>
+        <durada temps="min">95</durada>
+        <any>2015</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Animació</genere>
+        <class>7</class>
+        <sinopsi>Les emocions d'una nena es materialitzen per guiar-la en moments difícils.</sinopsi>
+        <director-a>Pete Docter</director-a>
+        <repartiment>
+          <actor>
+            <nom>Mindy</nom>
+            <cognom>Kaling</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>21/10/2015</datacompra>
+        <preu moneda="&euro;">17</preu>
+    </pelicula>
+
+    <!-- 49. -->
+    <pelicula codi="11111159">
+        <titol>Mad Max: Fury Road</titol>
+        <durada temps="min">120</durada>
+        <any>2015</any>
+        <nacionalitat>Austràlia/EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Aventura</genere>
+        <class>16</class>
+        <sinopsi>En un futur postapocalíptic, un fugitiu i una rebel·la lluiten per la seva supervivència en una persecució implacable.</sinopsi>
+        <director-a>George Miller</director-a>
+        <repartiment>
+          <actor>
+            <nom>Tom</nom>
+            <cognom>Hardy</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>30/07/2016</datacompra>
+        <preu moneda="&euro;">23</preu>
+    </pelicula>
+
+    <!-- 50.-->
+    <pelicula codi="11111160">
+        <titol>The Revenant</titol>
+        <durada temps="min">156</durada>
+        <any>2015</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Western</genere>
+        <class>16</class>
+        <sinopsi>Un caçador és abandonat i busca venjança en un entorn salvatge i implacable.</sinopsi>
+        <director-a>Alejandro González Iñárritu</director-a>
+        <repartiment>
+          <actor>
+            <nom>Leonardo</nom>
+            <cognom>DiCaprio</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>17/03/2016</datacompra>
+        <preu moneda="&dollar;">24</preu>
+    </pelicula>
+
+    <!-- 51.-->
+    <pelicula codi="11111161">
+        <titol>No Country for Old Men</titol>
+        <durada temps="min">122</durada>
+        <any>2007</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Western</genere>
+        <class>16</class>
+        <sinopsi>Un caçador es veu perseguït per un assassí implacable mentre la justícia sembla lenta.</sinopsi>
+        <director-a>Joel i Ethan Coen</director-a>
+        <repartiment>
+          <actor>
+            <nom>Tom</nom>
+            <cognom>Noonan</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>12/06/2008</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 52.-->
+    <pelicula codi="11111162">
+        <titol>There Will Be Blood</titol>
+        <durada temps="min">158</durada>
+        <any>2007</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Històrica</genere>
+        <class>16</class>
+        <sinopsi>La seva ambició per l'or transforma la vida d'un petrolier en el context de l'EEUU del segle XX.</sinopsi>
+        <director-a>Paul Thomas Anderson</director-a>
+        <repartiment>
+          <actor>
+            <nom>Daniel</nom>
+            <cognom>Day-Lewis</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>03/09/2008</datacompra>
+        <preu moneda="&euro;">21</preu>
+    </pelicula>
+
+    <!-- 53.-->
+    <pelicula codi="11111163">
+        <titol>Once Upon a Time in Hollywood</titol>
+        <durada temps="min">161</durada>
+        <any>2019</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Comèdia</genere>
+        <class>16</class>
+        <sinopsi>Un actor en decadència i el seu doble es mouen pels darrers anys daurats d'Hollywood.</sinopsi>
+        <director-a>Quentin Tarantino</director-a>
+        <repartiment>
+          <actor>
+            <nom>Leonardo</nom>
+            <cognom>DiCaprio</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>11/11/2019</datacompra>
+        <preu moneda="&dollar;">25</preu>
+    </pelicula>
+
+    <!-- 54. -->
+    <pelicula codi="11111164">
+        <titol>Django Unchained</titol>
+        <durada temps="min">165</durada>
+        <any>2012</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Western</genere>
+        <class>18</class>
+        <sinopsi>Un esclau alliberat es converteix en caçador de premis per rescatar la seva dona.</sinopsi>
+        <director-a>Quentin Tarantino</director-a>
+        <repartiment>
+          <actor>
+            <nom>Jamie</nom>
+            <cognom>Foxx</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>21/07/2013</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 55.-->
+    <pelicula codi="11111165">
+        <titol>The Hateful Eight</titol>
+        <durada temps="min">187</durada>
+        <any>2015</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Western</genere>
+        <class>18</class>
+        <sinopsi>Enmig d'una tempesta, vuit desconeguts es veuen atrapats amb secrets i traïcions.</sinopsi>
+        <director-a>Quentin Tarantino</director-a>
+        <repartiment>
+          <actor>
+            <nom>Kurt</nom>
+            <cognom>Russell</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>30/10/2015</datacompra>
+        <preu moneda="&euro;">22</preu>
+    </pelicula>
+
+    <!-- 56.-->
+    <pelicula codi="11111166">
+        <titol>Whiplash</titol>
+        <durada temps="min">107</durada>
+        <any>2014</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Musical</genere>
+        <class>13</class>
+        <sinopsi>Un jove baterista lluita per aconseguir la perfecció sota un exigent instructor.</sinopsi>
+        <director-a>Damien Chazelle</director-a>
+        <repartiment>
+          <actor>
+            <nom>Miles</nom>
+            <cognom>Teller</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>10/12/2014</datacompra>
+        <preu moneda="&euro;">18</preu>
+    </pelicula>
+
+    <!-- 57 -->
+    <pelicula codi="11111167">
+        <titol>Gravity</titol>
+        <durada temps="min">91</durada>
+        <any>2013</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Thriller</genere>
+        <class>13</class>
+        <sinopsi>Una astronauta lluita per tornar a la Terra després d'un desastre en l'espai.</sinopsi>
+        <director-a>Alfonso Cuarón</director-a>
+        <repartiment>
+          <actor>
+            <nom>Sandra</nom>
+            <cognom>Bullock</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>05/06/2014</datacompra>
+        <preu moneda="&euro;">20</preu>
+    </pelicula>
+
+    <!-- 58. -->
+    <pelicula codi="11111168">
+        <titol>The Martian</titol>
+        <durada temps="min">144</durada>
+        <any>2015</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Ciència ficció</genere>
+        <class>13</class>
+        <sinopsi>Un astronauta queda atrapat en Mart i ha de trobar la manera de sobreviure fins a ser rescatat.</sinopsi>
+        <director-a>Ridley Scott</director-a>
+        <repartiment>
+          <actor>
+            <nom>Matt</nom>
+            <cognom>Damon</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>Blu-ray</suport>
+        <datacompra>22/09/2015</datacompra>
+        <preu moneda="&euro;">21</preu>
+    </pelicula>
+
+    <!-- 59.-->
+    <pelicula codi="11111169">
+        <titol>Guardians of the Galaxy</titol>
+        <durada temps="min">121</durada>
+        <any>2014</any>
+        <nacionalitat>EEUU</nacionalitat>
+        <idioma>Anglès</idioma>
+        <genere>Acció</genere>
+        <class>12</class>
+        <sinopsi>Un grup d'outsiders s'uneixen per salvar l'univers d'una amenaça imminent.</sinopsi>
+        <director-a>James Gunn</director-a>
+        <repartiment>
+          <actor>
+            <nom>Chris</nom>
+            <cognom>Pratt</cognom>
+            <tipus>Principal</tipus>
+          </actor>
+        </repartiment>
+        <suport>DVD</suport>
+        <datacompra>09/11/2014</datacompra>
+        <preu moneda="&euro;">19</preu>
+    </pelicula>
+
+    <!-- 60. -->
+<pelicula codi="11111170">
+    <titol>Eyes Wide Shut</titol>
+    <durada temps="min">159</durada>
+    <any>1999</any>
+    <nacionalitat>EEUU/Reino Unit</nacionalitat>
+    <idioma>Anglès</idioma>
+    <genere>Eròtica</genere>
+    <class>18</class>
+    <sinopsi>Un metge de Nova York s'embarca en una sèrie d'esdeveniments inquietants i sorprenents després de ser introduït en el món de les orgies secretes i el sexe ritual. La pel·lícula explora temes de desig, gelosia, i la fragilitat de les relacions.</sinopsi>
+    <director-a>Stanley Kubrick</director-a>
+    <repartiment>
+        <actor>
+            <nom>Tom</nom>
+            <cognom>Cruise</cognom>
+            <tipus>Principal</tipus>
+        </actor>
+        <actor>
+            <nom>Nicole</nom>
+            <cognom>Kidman</cognom>
+            <tipus>Principal</tipus>
+        </actor>
+    </repartiment>
+    <suport>Blu-ray</suport>
+    <datacompra>12/12/2019</datacompra>
+    <preu moneda="&pound;">22</preu>
+</pelicula>
+</colleccio>
